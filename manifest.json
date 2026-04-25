@@ -1,0 +1,19 @@
+{
+  "name": "Spielbank Saarbrücken",
+  "short_name": "Spielbank Saarbrücken",
+  "theme_color": "",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1777111572-favicon-77.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

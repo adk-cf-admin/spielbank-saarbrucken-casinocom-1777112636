@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://spielbank-saarbrucken-casino.com/
+Sitemap: https://spielbank-saarbrucken-casino.com/sitemap.xml
